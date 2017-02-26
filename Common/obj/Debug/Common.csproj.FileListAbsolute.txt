@@ -1,0 +1,25 @@
+F:\Textile Account Software\TextileApp\Common\bin\Debug\Common.dll
+F:\Textile Account Software\TextileApp\Common\bin\Debug\Common.pdb
+F:\Textile Account Software\TextileApp\Common\obj\Debug\ResolveAssemblyReference.cache
+F:\Textile Account Software\TextileApp\Common\obj\Debug\Common.dll
+F:\Textile Account Software\TextileApp\Common\obj\Debug\Common.pdb
+E:\WPF Project\AccountingDB\TextileApp\Common\bin\Debug\Common.dll
+E:\WPF Project\AccountingDB\TextileApp\Common\bin\Debug\Common.pdb
+E:\WPF Project\AccountingDB\TextileApp\Common\obj\Debug\ResolveAssemblyReference.cache
+E:\WPF Project\AccountingDB\TextileApp\Common\obj\Debug\Common.dll
+E:\WPF Project\AccountingDB\TextileApp\Common\obj\Debug\Common.pdb
+F:\Textile Account Software\Mush\TextileApp\Common\bin\Debug\Common.dll
+F:\Textile Account Software\Mush\TextileApp\Common\bin\Debug\Common.pdb
+F:\Textile Account Software\Mush\TextileApp\Common\obj\Debug\ResolveAssemblyReference.cache
+F:\Textile Account Software\Mush\TextileApp\Common\obj\Debug\Common.dll
+F:\Textile Account Software\Mush\TextileApp\Common\obj\Debug\Common.pdb
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\Common\bin\Debug\Common.dll
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\Common\bin\Debug\Common.pdb
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\Common\obj\Debug\Common.dll
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\Common\obj\Debug\Common.pdb
+F:\Dotnet Projects\TextileApp_6June\TextileApp\Common\bin\Debug\Common.dll
+F:\Dotnet Projects\TextileApp_6June\TextileApp\Common\bin\Debug\Common.pdb
+F:\Dotnet Projects\TextileApp_6June\TextileApp\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+F:\Dotnet Projects\TextileApp_6June\TextileApp\Common\obj\Debug\Common.dll
+F:\Dotnet Projects\TextileApp_6June\TextileApp\Common\obj\Debug\Common.pdb

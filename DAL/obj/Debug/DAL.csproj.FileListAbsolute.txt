@@ -1,0 +1,45 @@
+F:\Textile Account Software\TextileApp\DAL\bin\Debug\DAL.dll
+F:\Textile Account Software\TextileApp\DAL\bin\Debug\DAL.pdb
+F:\Textile Account Software\TextileApp\DAL\bin\Debug\Common.dll
+F:\Textile Account Software\TextileApp\DAL\bin\Debug\Model.dll
+F:\Textile Account Software\TextileApp\DAL\bin\Debug\Common.pdb
+F:\Textile Account Software\TextileApp\DAL\bin\Debug\Model.pdb
+F:\Textile Account Software\TextileApp\DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\Textile Account Software\TextileApp\DAL\obj\Debug\DAL.dll
+F:\Textile Account Software\TextileApp\DAL\obj\Debug\DAL.pdb
+E:\WPF Project\AccountingDB\TextileApp\DAL\bin\Debug\DAL.dll
+E:\WPF Project\AccountingDB\TextileApp\DAL\bin\Debug\DAL.pdb
+E:\WPF Project\AccountingDB\TextileApp\DAL\bin\Debug\Common.dll
+E:\WPF Project\AccountingDB\TextileApp\DAL\bin\Debug\Model.dll
+E:\WPF Project\AccountingDB\TextileApp\DAL\bin\Debug\Common.pdb
+E:\WPF Project\AccountingDB\TextileApp\DAL\bin\Debug\Model.pdb
+E:\WPF Project\AccountingDB\TextileApp\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\WPF Project\AccountingDB\TextileApp\DAL\obj\Debug\DAL.dll
+E:\WPF Project\AccountingDB\TextileApp\DAL\obj\Debug\DAL.pdb
+F:\Textile Account Software\Mush\TextileApp\DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\Textile Account Software\Mush\TextileApp\DAL\obj\Debug\DAL.dll
+F:\Textile Account Software\Mush\TextileApp\DAL\obj\Debug\DAL.pdb
+F:\Textile Account Software\Mush\TextileApp\DAL\bin\Debug\DAL.dll
+F:\Textile Account Software\Mush\TextileApp\DAL\bin\Debug\DAL.pdb
+F:\Textile Account Software\Mush\TextileApp\DAL\bin\Debug\Common.dll
+F:\Textile Account Software\Mush\TextileApp\DAL\bin\Debug\Model.dll
+F:\Textile Account Software\Mush\TextileApp\DAL\bin\Debug\Common.pdb
+F:\Textile Account Software\Mush\TextileApp\DAL\bin\Debug\Model.pdb
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\DAL\bin\Debug\DAL.dll
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\DAL\bin\Debug\DAL.pdb
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\DAL\bin\Debug\Common.dll
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\DAL\bin\Debug\Model.dll
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\DAL\bin\Debug\Common.pdb
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\DAL\bin\Debug\Model.pdb
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\DAL\obj\Debug\DAL.dll
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\DAL\obj\Debug\DAL.pdb
+F:\Dotnet Projects\TextileApp_6June\TextileApp\DAL\bin\Debug\DAL.dll
+F:\Dotnet Projects\TextileApp_6June\TextileApp\DAL\bin\Debug\DAL.pdb
+F:\Dotnet Projects\TextileApp_6June\TextileApp\DAL\bin\Debug\Common.dll
+F:\Dotnet Projects\TextileApp_6June\TextileApp\DAL\bin\Debug\Model.dll
+F:\Dotnet Projects\TextileApp_6June\TextileApp\DAL\bin\Debug\Common.pdb
+F:\Dotnet Projects\TextileApp_6June\TextileApp\DAL\bin\Debug\Model.pdb
+F:\Dotnet Projects\TextileApp_6June\TextileApp\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Dotnet Projects\TextileApp_6June\TextileApp\DAL\obj\Debug\DAL.dll
+F:\Dotnet Projects\TextileApp_6June\TextileApp\DAL\obj\Debug\DAL.pdb

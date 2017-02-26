@@ -1,0 +1,19 @@
+F:\Textile Account Software\TextileApp\UI.Base\obj\Debug\ResolveAssemblyReference.cache
+F:\Textile Account Software\TextileApp\UI.Base\bin\Debug\UI.Base.dll
+F:\Textile Account Software\TextileApp\UI.Base\bin\Debug\UI.Base.pdb
+F:\Textile Account Software\TextileApp\UI.Base\obj\Debug\UI.Base.dll
+F:\Textile Account Software\TextileApp\UI.Base\obj\Debug\UI.Base.pdb
+E:\WPF Project\AccountingDB\TextileApp\UI.Base\bin\Debug\UI.Base.dll
+E:\WPF Project\AccountingDB\TextileApp\UI.Base\bin\Debug\UI.Base.pdb
+E:\WPF Project\AccountingDB\TextileApp\UI.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\WPF Project\AccountingDB\TextileApp\UI.Base\obj\Debug\UI.Base.dll
+E:\WPF Project\AccountingDB\TextileApp\UI.Base\obj\Debug\UI.Base.pdb
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Base\bin\Debug\UI.Base.dll
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Base\bin\Debug\UI.Base.pdb
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Base\obj\Debug\UI.Base.dll
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Base\obj\Debug\UI.Base.pdb
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Base\bin\Debug\UI.Base.dll
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Base\bin\Debug\UI.Base.pdb
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Base\obj\Debug\UI.Base.csprojResolveAssemblyReference.cache
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Base\obj\Debug\UI.Base.dll
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Base\obj\Debug\UI.Base.pdb

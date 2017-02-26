@@ -1,0 +1,35 @@
+F:\Textile Account Software\TextileApp\Model\bin\Debug\Model.dll
+F:\Textile Account Software\TextileApp\Model\bin\Debug\Model.pdb
+F:\Textile Account Software\TextileApp\Model\bin\Debug\Common.dll
+F:\Textile Account Software\TextileApp\Model\bin\Debug\Common.pdb
+F:\Textile Account Software\TextileApp\Model\obj\Debug\ResolveAssemblyReference.cache
+F:\Textile Account Software\TextileApp\Model\obj\Debug\Model.dll
+F:\Textile Account Software\TextileApp\Model\obj\Debug\Model.pdb
+E:\WPF Project\AccountingDB\TextileApp\Model\bin\Debug\Model.dll
+E:\WPF Project\AccountingDB\TextileApp\Model\bin\Debug\Model.pdb
+E:\WPF Project\AccountingDB\TextileApp\Model\bin\Debug\Common.dll
+E:\WPF Project\AccountingDB\TextileApp\Model\bin\Debug\Common.pdb
+E:\WPF Project\AccountingDB\TextileApp\Model\obj\Debug\ResolveAssemblyReference.cache
+E:\WPF Project\AccountingDB\TextileApp\Model\obj\Debug\Model.dll
+E:\WPF Project\AccountingDB\TextileApp\Model\obj\Debug\Model.pdb
+F:\Textile Account Software\Mush\TextileApp\Model\bin\Debug\Model.dll
+F:\Textile Account Software\Mush\TextileApp\Model\bin\Debug\Model.pdb
+F:\Textile Account Software\Mush\TextileApp\Model\bin\Debug\Common.dll
+F:\Textile Account Software\Mush\TextileApp\Model\bin\Debug\Common.pdb
+F:\Textile Account Software\Mush\TextileApp\Model\obj\Debug\ResolveAssemblyReference.cache
+F:\Textile Account Software\Mush\TextileApp\Model\obj\Debug\Model.dll
+F:\Textile Account Software\Mush\TextileApp\Model\obj\Debug\Model.pdb
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\Model\bin\Debug\Model.dll
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\Model\bin\Debug\Model.pdb
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\Model\bin\Debug\Common.dll
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\Model\bin\Debug\Common.pdb
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\Model\obj\Debug\Model.dll
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\Model\obj\Debug\Model.pdb
+F:\Dotnet Projects\TextileApp_6June\TextileApp\Model\bin\Debug\Model.dll
+F:\Dotnet Projects\TextileApp_6June\TextileApp\Model\bin\Debug\Model.pdb
+F:\Dotnet Projects\TextileApp_6June\TextileApp\Model\bin\Debug\Common.dll
+F:\Dotnet Projects\TextileApp_6June\TextileApp\Model\bin\Debug\Common.pdb
+F:\Dotnet Projects\TextileApp_6June\TextileApp\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+F:\Dotnet Projects\TextileApp_6June\TextileApp\Model\obj\Debug\Model.dll
+F:\Dotnet Projects\TextileApp_6June\TextileApp\Model\obj\Debug\Model.pdb

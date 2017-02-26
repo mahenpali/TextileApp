@@ -1,0 +1,217 @@
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\bin\Debug\UI.Resource.dll
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\bin\Debug\UI.Resource.pdb
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\ResolveAssemblyReference.cache
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\Resource\Button.baml
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\Resource\Calendar.baml
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\Resource\CheckBox.baml
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\Resource\ComboBox.baml
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\Resource\DataGrid.baml
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\Resource\DatePicker.baml
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\Resource\DocumentViewer.baml
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\Resource\Expander.baml
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\Resource\Frame.baml
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\Resource\GroupBox.baml
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\Resource\Label.baml
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\Resource\ListBox.baml
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\Resource\ListView.baml
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\Resource\Menu.baml
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\Resource\NavigationWindow.baml
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\Resource\ProgressBar.baml
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\Resource\RadioButton.baml
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\Resource\ResizeGrip.baml
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\Resource\ScrollBar.baml
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\Resource\ScrollViewer.baml
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\Resource\Separator.baml
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\Resource\Shared.baml
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\Resource\Slider.baml
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\Resource\StatusBar.baml
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\Resource\TabControl.baml
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\Resource\TextBox.baml
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\Resource\ToolBar.baml
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\Resource\ToolTip.baml
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\Resource\TreeView.baml
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\Resource\Window.baml
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\UI.Resource_MarkupCompile.cache
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\UI.Resource_MarkupCompile.lref
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\Themes\Generic.baml
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\UI.Resource.g.resources
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\UI.Resource.Properties.Resources.resources
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\GenerateResource.read.1.tlog
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\GenerateResource.write.1.tlog
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\UI.Resource.dll
+F:\Textile Account Software\Mush\TextileApp\UI.Resource\obj\Debug\UI.Resource.pdb
+F:\Textile Account Software\TextileApp\UI.Resource\bin\Debug\UI.Resource.dll
+F:\Textile Account Software\TextileApp\UI.Resource\bin\Debug\UI.Resource.pdb
+F:\Textile Account Software\TextileApp\UI.Resource\obj\Debug\ResolveAssemblyReference.cache
+F:\Textile Account Software\TextileApp\UI.Resource\obj\Debug\Resource\Button.baml
+F:\Textile Account Software\TextileApp\UI.Resource\obj\Debug\Resource\Calendar.baml
+F:\Textile Account Software\TextileApp\UI.Resource\obj\Debug\Resource\CheckBox.baml
+F:\Textile Account Software\TextileApp\UI.Resource\obj\Debug\Resource\ComboBox.baml
+F:\Textile Account Software\TextileApp\UI.Resource\obj\Debug\Resource\DataGrid.baml
+F:\Textile Account Software\TextileApp\UI.Resource\obj\Debug\Resource\DatePicker.baml
+F:\Textile Account Software\TextileApp\UI.Resource\obj\Debug\Resource\DocumentViewer.baml
+F:\Textile Account Software\TextileApp\UI.Resource\obj\Debug\Resource\Expander.baml
+F:\Textile Account Software\TextileApp\UI.Resource\obj\Debug\Resource\Frame.baml
+F:\Textile Account Software\TextileApp\UI.Resource\obj\Debug\Resource\GroupBox.baml
+F:\Textile Account Software\TextileApp\UI.Resource\obj\Debug\Resource\Label.baml
+F:\Textile Account Software\TextileApp\UI.Resource\obj\Debug\Resource\ListBox.baml
+F:\Textile Account Software\TextileApp\UI.Resource\obj\Debug\Resource\ListView.baml
+F:\Textile Account Software\TextileApp\UI.Resource\obj\Debug\Resource\Menu.baml
+F:\Textile Account Software\TextileApp\UI.Resource\obj\Debug\Resource\NavigationWindow.baml
+F:\Textile Account Software\TextileApp\UI.Resource\obj\Debug\Resource\ProgressBar.baml
+F:\Textile Account Software\TextileApp\UI.Resource\obj\Debug\Resource\RadioButton.baml
+F:\Textile Account Software\TextileApp\UI.Resource\obj\Debug\Resource\ResizeGrip.baml
+F:\Textile Account Software\TextileApp\UI.Resource\obj\Debug\Resource\ScrollBar.baml
+F:\Textile Account Software\TextileApp\UI.Resource\obj\Debug\Resource\ScrollViewer.baml
+F:\Textile Account Software\TextileApp\UI.Resource\obj\Debug\Resource\Separator.baml
+F:\Textile Account Software\TextileApp\UI.Resource\obj\Debug\Resource\Shared.baml
+F:\Textile Account Software\TextileApp\UI.Resource\obj\Debug\Resource\Slider.baml
+F:\Textile Account Software\TextileApp\UI.Resource\obj\Debug\Resource\StatusBar.baml
+F:\Textile Account Software\TextileApp\UI.Resource\obj\Debug\Resource\TabControl.baml
+F:\Textile Account Software\TextileApp\UI.Resource\obj\Debug\Resource\TextBox.baml
+F:\Textile Account Software\TextileApp\UI.Resource\obj\Debug\Resource\ToolBar.baml
+F:\Textile Account Software\TextileApp\UI.Resource\obj\Debug\Resource\ToolTip.baml
+F:\Textile Account Software\TextileApp\UI.Resource\obj\Debug\Resource\TreeView.baml
+F:\Textile Account Software\TextileApp\UI.Resource\obj\Debug\Resource\Window.baml
+F:\Textile Account Software\TextileApp\UI.Resource\obj\Debug\UI.Resource_MarkupCompile.cache
+F:\Textile Account Software\TextileApp\UI.Resource\obj\Debug\UI.Resource_MarkupCompile.lref
+F:\Textile Account Software\TextileApp\UI.Resource\obj\Debug\Themes\Generic.baml
+F:\Textile Account Software\TextileApp\UI.Resource\obj\Debug\UI.Resource.g.resources
+F:\Textile Account Software\TextileApp\UI.Resource\obj\Debug\UI.Resource.Properties.Resources.resources
+F:\Textile Account Software\TextileApp\UI.Resource\obj\Debug\GenerateResource.read.1.tlog
+F:\Textile Account Software\TextileApp\UI.Resource\obj\Debug\GenerateResource.write.1.tlog
+F:\Textile Account Software\TextileApp\UI.Resource\obj\Debug\UI.Resource.dll
+F:\Textile Account Software\TextileApp\UI.Resource\obj\Debug\UI.Resource.pdb
+F:\Textile Account Software\TextileApp\UI.Resource\bin\Debug\UI.Base.dll
+F:\Textile Account Software\TextileApp\UI.Resource\bin\Debug\UI.Base.pdb
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\bin\Debug\UI.Resource.dll
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\bin\Debug\UI.Resource.pdb
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\bin\Debug\UI.Base.dll
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\bin\Debug\UI.Base.pdb
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\obj\Debug\ResolveAssemblyReference.cache
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\obj\Debug\Resource\Button.baml
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\obj\Debug\Resource\Calendar.baml
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\obj\Debug\Resource\CheckBox.baml
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\obj\Debug\Resource\ComboBox.baml
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\obj\Debug\Resource\DataGrid.baml
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\obj\Debug\Resource\DatePicker.baml
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\obj\Debug\Resource\DocumentViewer.baml
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\obj\Debug\Resource\Expander.baml
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\obj\Debug\Resource\Frame.baml
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\obj\Debug\Resource\GroupBox.baml
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\obj\Debug\Resource\Label.baml
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\obj\Debug\Resource\ListBox.baml
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\obj\Debug\Resource\ListView.baml
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\obj\Debug\Resource\Menu.baml
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\obj\Debug\Resource\NavigationWindow.baml
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\obj\Debug\Resource\ProgressBar.baml
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\obj\Debug\Resource\RadioButton.baml
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\obj\Debug\Resource\ResizeGrip.baml
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\obj\Debug\Resource\ScrollBar.baml
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\obj\Debug\Resource\ScrollViewer.baml
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\obj\Debug\Resource\Separator.baml
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\obj\Debug\Resource\Shared.baml
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\obj\Debug\Resource\Slider.baml
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\obj\Debug\Resource\StatusBar.baml
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\obj\Debug\Resource\TabControl.baml
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\obj\Debug\Resource\TextBox.baml
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\obj\Debug\Resource\ToolBar.baml
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\obj\Debug\Resource\ToolTip.baml
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\obj\Debug\Resource\TreeView.baml
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\obj\Debug\Resource\Window.baml
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\obj\Debug\UI.Resource_MarkupCompile.cache
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\obj\Debug\UI.Resource_MarkupCompile.lref
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\obj\Debug\Themes\Generic.baml
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\obj\Debug\UI.Resource.g.resources
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\obj\Debug\UI.Resource.Properties.Resources.resources
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\obj\Debug\GenerateResource.read.1.tlog
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\obj\Debug\GenerateResource.write.1.tlog
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\obj\Debug\UI.Resource.dll
+E:\WPF Project\AccountingDB\TextileApp\UI.Resource\obj\Debug\UI.Resource.pdb
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\bin\Debug\UI.Resource.dll
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\bin\Debug\UI.Resource.pdb
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\bin\Debug\UI.Base.dll
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\bin\Debug\UI.Base.pdb
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\UI.Resource.csprojResolveAssemblyReference.cache
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\Button.baml
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\Calendar.baml
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\CheckBox.baml
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\ComboBox.baml
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\DataGrid.baml
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\DatePicker.baml
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\DocumentViewer.baml
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\Expander.baml
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\Frame.baml
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\GroupBox.baml
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\Label.baml
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\ListBox.baml
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\ListView.baml
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\Menu.baml
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\NavigationWindow.baml
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\ProgressBar.baml
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\RadioButton.baml
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\ResizeGrip.baml
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\ScrollBar.baml
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\ScrollViewer.baml
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\Separator.baml
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\Shared.baml
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\Slider.baml
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\StatusBar.baml
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\TabControl.baml
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\TextBox.baml
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\ToolBar.baml
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\ToolTip.baml
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\TreeView.baml
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\Window.baml
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\UI.Resource_MarkupCompile.cache
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\UI.Resource_MarkupCompile.lref
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Themes\Generic.baml
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\UI.Resource.g.resources
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\UI.Resource.Properties.Resources.resources
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\UI.Resource.csproj.GenerateResource.Cache
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\UI.Resource.dll
+D:\WPF_Project\New folder\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\UI.Resource.pdb
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\bin\Debug\UI.Resource.dll
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\bin\Debug\UI.Resource.pdb
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\bin\Debug\UI.Base.dll
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\bin\Debug\UI.Base.pdb
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\UI.Resource.csprojResolveAssemblyReference.cache
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\Button.baml
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\Calendar.baml
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\CheckBox.baml
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\ComboBox.baml
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\DataGrid.baml
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\DatePicker.baml
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\DocumentViewer.baml
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\Expander.baml
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\Frame.baml
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\GroupBox.baml
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\Label.baml
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\ListBox.baml
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\ListView.baml
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\Menu.baml
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\NavigationWindow.baml
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\ProgressBar.baml
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\RadioButton.baml
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\ResizeGrip.baml
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\ScrollBar.baml
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\ScrollViewer.baml
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\Separator.baml
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\Shared.baml
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\Slider.baml
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\StatusBar.baml
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\TabControl.baml
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\TextBox.baml
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\ToolBar.baml
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\ToolTip.baml
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\TreeView.baml
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Resource\Window.baml
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\UI.Resource_MarkupCompile.cache
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\UI.Resource_MarkupCompile.lref
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\Themes\Generic.baml
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\UI.Resource.g.resources
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\UI.Resource.Properties.Resources.resources
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\UI.Resource.csproj.GenerateResource.Cache
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\UI.Resource.dll
+F:\Dotnet Projects\TextileApp_6June\TextileApp\UI.Resource\obj\Debug\UI.Resource.pdb
